@@ -11,6 +11,8 @@ For licensing information, see the attached LICENSE file and the list of third-p
 # Wire Translations for Android
 
 This repository contains translations resources for Wire for Android.
+ 
+To contribute to the translations please join the team of volunteers on Crowdin [https://crowdin.com/projects/wire](https://crowdin.com/projects/wire).
 
 ## Building
 
